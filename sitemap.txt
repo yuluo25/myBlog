@@ -1,0 +1,6 @@
+https://blog.yuluo.link/post/reflections-on-abstract-classes-regular-classes-and-interfaces/
+https://blog.yuluo.link/post/improving-accuracy-of-elasticSearch/
+https://blog.yuluo.link/
+https://blog.yuluo.link/tags/java/
+https://blog.yuluo.link/tags/elasticSearch/
+https://blog.yuluo.link/categories/Blog/
