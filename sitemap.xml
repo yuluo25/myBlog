@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.yuluo.link/post/follow-verify/</loc>
+    
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yuluo.link/post/reflections-on-abstract-classes-regular-classes-and-interfaces/</loc>
+    
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yuluo.link/post/improving-accuracy-of-elasticSearch/</loc>
+    
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yuluo.link/post/Feign-passing-MultipartFile-error/</loc>
+    
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://blog.yuluo.link/</loc>
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://blog.yuluo.link/tags/java/</loc>
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yuluo.link/tags/elasticSearch/</loc>
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://blog.yuluo.link/categories/Blog/</loc>
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yuluo.link/categories/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>

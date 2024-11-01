@@ -1,0 +1,9 @@
+https://blog.yuluo.link/post/follow-verify/
+https://blog.yuluo.link/post/reflections-on-abstract-classes-regular-classes-and-interfaces/
+https://blog.yuluo.link/post/improving-accuracy-of-elasticSearch/
+https://blog.yuluo.link/post/Feign-passing-MultipartFile-error/
+https://blog.yuluo.link/
+https://blog.yuluo.link/tags/java/
+https://blog.yuluo.link/tags/elasticSearch/
+https://blog.yuluo.link/categories/Blog/
+https://blog.yuluo.link/categories/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/
